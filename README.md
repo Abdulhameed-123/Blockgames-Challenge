@@ -1,5 +1,7 @@
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
+## [https://rinkeby.etherscan.io/address/0x1E90D43b182CbA118ceebf0bAc01d1097Ef5f20b](https://rinkeby.etherscan.io/address/0x1E90D43b182CbA118ceebf0bAc01d1097Ef5f20b)
+
 ## 🚩 Challenge 0: 🎟 Simple NFT Example 🤓
 
 🎫 Create a simple NFT to learn basics of 🏗 scaffold-eth. You'll use [👷‍♀️ HardHat](https://hardhat.org/getting-started/) to compile and deploy smart contracts. Then, you'll use a template React app full of important Ethereum components and hooks. Finally, you'll deploy an NFT to a public network to share with friends! 🚀
