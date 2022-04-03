@@ -2,6 +2,10 @@
 
 ## 🚩 Challenge 2: 🏵 Token Vendor 🤖
 
+## https://rinkeby.etherscan.io/address/0x73C578eaDE5472Da396D7Eb1F5771715358220Fd
+
+## https://ipfs.io/ipfs/QmcN8zEf9uS6rcNyvbjW1QN9Z6otDboteDhP6D6hbhfFu2
+
 
 > 🤖 Smart contracts are kind of like "always on" *vending machines* that **anyone** can access. Let's make a decentralized, digital currency. Then, let's build an unstoppable vending machine that will buy and sell the currency. We'll learn about the "approve" pattern for ERC20s and how contract to contract interactions work.  
 
